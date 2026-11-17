@@ -1,0 +1,140 @@
+{
+ "val_matches": [
+  "J03WR9",
+  "METRICA3"
+ ],
+ "chosen": {
+  "emission_scale": 0.3,
+  "min_possession_s": 1.0,
+  "spellF1": 0.5882,
+  "macroF1": 0.9083
+ },
+ "rows": [
+  {
+   "emission_scale": 0.3,
+   "min_possession_s": 1.0,
+   "spellF1": 0.5882,
+   "macroF1": 0.9083
+  },
+  {
+   "emission_scale": 0.2,
+   "min_possession_s": 1.0,
+   "spellF1": 0.5848,
+   "macroF1": 0.9089
+  },
+  {
+   "emission_scale": 0.15,
+   "min_possession_s": 1.0,
+   "spellF1": 0.5752,
+   "macroF1": 0.9074
+  },
+  {
+   "emission_scale": 0.2,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5751,
+   "macroF1": 0.9078
+  },
+  {
+   "emission_scale": 0.3,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5733,
+   "macroF1": 0.9067
+  },
+  {
+   "emission_scale": 0.15,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5669,
+   "macroF1": 0.9065
+  },
+  {
+   "emission_scale": 0.1,
+   "min_possession_s": 1.0,
+   "spellF1": 0.5586,
+   "macroF1": 0.9057
+  },
+  {
+   "emission_scale": 0.3,
+   "min_possession_s": 3.0,
+   "spellF1": 0.556,
+   "macroF1": 0.9044
+  },
+  {
+   "emission_scale": 0.2,
+   "min_possession_s": 3.0,
+   "spellF1": 0.5556,
+   "macroF1": 0.9055
+  },
+  {
+   "emission_scale": 0.15,
+   "min_possession_s": 3.0,
+   "spellF1": 0.5508,
+   "macroF1": 0.9051
+  },
+  {
+   "emission_scale": 0.1,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5508,
+   "macroF1": 0.9049
+  },
+  {
+   "emission_scale": 0.1,
+   "min_possession_s": 3.0,
+   "spellF1": 0.5357,
+   "macroF1": 0.9034
+  },
+  {
+   "emission_scale": 0.07,
+   "min_possession_s": 1.0,
+   "spellF1": 0.531,
+   "macroF1": 0.9028
+  },
+  {
+   "emission_scale": 0.07,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5276,
+   "macroF1": 0.9025
+  },
+  {
+   "emission_scale": 0.07,
+   "min_possession_s": 3.0,
+   "spellF1": 0.5172,
+   "macroF1": 0.9012
+  },
+  {
+   "emission_scale": 0.05,
+   "min_possession_s": 2.0,
+   "spellF1": 0.5102,
+   "macroF1": 0.9007
+  },
+  {
+   "emission_scale": 0.05,
+   "min_possession_s": 1.0,
+   "spellF1": 0.5102,
+   "macroF1": 0.9007
+  },
+  {
+   "emission_scale": 0.05,
+   "min_possession_s": 3.0,
+   "spellF1": 0.5029,
+   "macroF1": 0.8997
+  },
+  {
+   "emission_scale": 0.03,
+   "min_possession_s": 2.0,
+   "spellF1": 0.457,
+   "macroF1": 0.8915
+  },
+  {
+   "emission_scale": 0.03,
+   "min_possession_s": 1.0,
+   "spellF1": 0.457,
+   "macroF1": 0.8915
+  },
+  {
+   "emission_scale": 0.03,
+   "min_possession_s": 3.0,
+   "spellF1": 0.456,
+   "macroF1": 0.8913
+  }
+ ]
+}

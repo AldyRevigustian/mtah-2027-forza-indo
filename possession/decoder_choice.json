@@ -1,0 +1,5 @@
+{
+ "emission_scale": 0.3,
+ "min_possession_s": 1.0,
+ "rule": "best mean spellF1 over the external validation matches J03WR9 and METRICA3 (possession/choose_decoder.ipynb)"
+}

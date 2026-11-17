@@ -1,0 +1,13 @@
+# The match data is not redistributable: the bundle, the external datasets and every cache derived from them
+data/
+possession/artifacts/*
+!possession/artifacts/possession_v1_val_probs.npz
+possession/outputs/
+possession/external/
+possession/_vendor/
+# The possession file is uploaded through the form, not kept here
+output/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+possession/run.ipynb

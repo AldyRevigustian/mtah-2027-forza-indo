@@ -1,0 +1,15 @@
+# Python 3.10.6. Pinned at the versions the submission was produced with:   python -m pip install -r requirements.txt
+numpy==2.2.1
+pandas==2.2.3
+scipy==1.15.3
+scikit-learn==1.6.1
+catboost==1.2.10
+matplotlib==3.10.3
+lxml==5.3.1
+# kloppy reads the ATD (Metrica EPTS) the first time; pip may update python-dateutil and pytz with it
+kloppy==3.19.1
+# the notebooks
+notebook==7.4.3
+ipykernel==6.29.5
+nbformat==5.10.4
+nbconvert==7.16.6
